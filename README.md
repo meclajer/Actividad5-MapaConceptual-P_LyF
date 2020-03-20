@@ -1,0 +1,2 @@
+# Actividad5-MapaConceptual-P_LyF
+Investigar las respuestas a las preguntas que se listan a continuación y posteriormente crear un MAPA CONCEPTUAL en alguna herramienta electrónica.  1. Matematicamente, que es el calculo lambda     2. Que son las ‘functional interfaces’ en Java     3. Cuales son las 6 interfaces funcionales del paquete java.util.function     4. Que son las expresiones lambda      5. Sintaxis de las expresiones lambda     6. Que son los streams y para que sirven     7. Funciones mas relevantes de la clase Stream
